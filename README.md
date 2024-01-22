@@ -1,2 +1,2 @@
 # celestia-devnet-cluster
-devnet cluster for DA chains.
+devnet cluster using kurtosis.
